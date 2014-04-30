@@ -24,7 +24,7 @@ syn keyword plotOption angles arrow autoscale bars boxwidth clabel
 syn keyword plotOption clip cntrparam colorbox contour decimalsign
 syn keyword plotOption dgrid3d dummy encoding fit format grid
 syn keyword plotOption historysize isosamples key locale logscale
-syn keyword plotOption mapping mouse multiplot offsets origin output
+syn keyword plotOption mapping mouse multiplot offsets origin size output
 syn keyword plotOption palette parametric pm3d polar print
 syn keyword plotOption samples style surface terminal ticscale
 syn keyword plotOption ticslevel timestamp timefmt title view zero
